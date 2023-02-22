@@ -1,6 +1,7 @@
 body {
     background-image: url(./img/paisagem.gif);
     background-repeat: no-repeat;
+    background-seze: cover;
 }
 
 #inicio {
