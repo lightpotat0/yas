@@ -28,6 +28,7 @@ img {
 }
 
 #buque{
+    display: none;
     animation: transitionIn 0.75s;
 }
 
