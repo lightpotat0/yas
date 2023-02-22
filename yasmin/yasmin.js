@@ -13,6 +13,7 @@ var timido = document.getElementById('timido')
 var love = document.getElementById('love')
 var rindo = document.getElementById('rindo')
 var catdance = document.getElementById('catdance')
+var buque = document.getElementById('buque')
 
 botao.addEventListener('click', sla)
 goiaba.addEventListener('click', sla)
