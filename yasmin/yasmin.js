@@ -43,13 +43,15 @@ function sla() {
                 texto1.innerHTML = '<h1>Então, Eu te amo muito e no momento que você chegou melhorou minha vida na hora, e eu não cuidei, mas dessa vez vou cuidar de verdade porque eu te amo muito e nunca mais vou te perder, então quer namorar comigo?</h1>'
                 pidao.style.display = 'block'
                 texto1.style.fontSize = '1em'
+                botao.style.display = 'none'
                 choose1.style.display = 'block'
+                choose.style.display = 'block'
+                yasmin.style.display = 'none'
                 break;
             case 3:
                 texto1.innerHTML = '<h1>Me responda no zap :)</h1>'
                 catdance.style.display = 'block'
                 buque.style.display = 'none'
-                botao.style.display = 'none'
                 choose1.style.display = 'none'
                 break;
         }
