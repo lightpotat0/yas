@@ -1,0 +1,38 @@
+body{
+    background-image: url(./363626108468d89388b7873ccacc3a92.gif);
+}
+
+#oba{
+    text-align: center;
+    margin-top: 5%;
+    font-family: "MotleyForcesRegular";
+}
+
+button {
+    border-radius: 15px;
+    font-family: "MotleyForcesRegular";
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    width:10%;
+    margin: 0 auto;
+}
+
+img{
+    margin: auto;
+    width: 20%;
+}
+
+#gato{
+    display: none;
+}
+
+#goiaba{
+    display: none;
+    width: 10%;
+}
+
+@font-face {
+    font-family: "MotleyForcesRegular";
+    src: local(MotleyForcesRegular), url(MotleyForcesRegular.ttf)
+}
